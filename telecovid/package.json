@@ -1,0 +1,16 @@
+{
+  "name": "telecovid",
+  "version": "1.0.0",
+  "description": "get information covid19",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hakim",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dateformat": "^4.5.1",
+    "telegraf": "^4.0.2"
+  }
+}

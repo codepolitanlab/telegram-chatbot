@@ -1,0 +1,20 @@
+{
+  "name": "chatbottelegraf",
+  "version": "1.0.0",
+  "description": "Sample Chatbot Telegram",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chat",
+    "bot",
+    "telegram"
+  ],
+  "author": "Hakim",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "telegraf": "^4.0.2"
+  }
+}
